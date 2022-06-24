@@ -10,7 +10,7 @@ const config = {
     app: './assets/js/script.js',
     events: './assets/js/events.js',
     schedule: './assets/js/schedule.js',
-    tickets: './assets/js/tickets.js'
+    tickets: './assets/js/tickets.js',
   },
   output: {
     path: path.join(__dirname + "/dist"),
